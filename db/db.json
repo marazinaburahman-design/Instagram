@@ -1,0 +1,76 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "image": "https://picsum.photos/id/1015/800/800",
+            "caption": "Beautiful day exploring the mountains 🏔️",
+            "likes": 1248,
+            "comments": 86,
+            "createdAt": "2026-10-05T08:30:00Z",
+            "likedByMe": false
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "image": "https://picsum.photos/id/1011/800/800",
+            "caption": "Sometimes all you need is a little sunshine ☀️",
+            "likes": 2345,
+            "comments": 124,
+            "createdAt": "2026-10-04T15:20:00Z",
+            "likedByMe": true
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "image": "https://picsum.photos/id/180/800/800",
+            "caption": "Weekend vibes ☕💻",
+            "likes": 876,
+            "comments": 42,
+            "createdAt": "2026-10-04T10:15:00Z",
+            "likedByMe": false
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "image": "https://picsum.photos/id/1027/800/800",
+            "caption": "New outfit, new energy ✨",
+            "likes": 4521,
+            "comments": 231,
+            "createdAt": "2026-10-03T18:45:00Z",
+            "likedByMe": false
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "image": "https://picsum.photos/id/1036/800/800",
+            "caption": "Chasing sunsets 🌅",
+            "likes": 1987,
+            "comments": 97,
+            "createdAt": "2026-10-02T16:30:00Z",
+            "likedByMe": true
+        }
+    ],
+    "profile": {
+        "userId": 1,
+        "image": "https://picsum.photos/id/1015/800/800",
+        "userName": "Abu_doc"
+    },
+    "suggestions": [
+        {
+            "userId": 1,
+            "image": "https://picsum.photos/id/1015/800/800",
+            "userName": "Abu_doc"
+        },
+        {
+            "userId": 1,
+            "image": "https://picsum.photos/id/1015/800/800",
+            "userName": "Abu_doc"
+        },
+        {
+            "userId": 1,
+            "image": "https://picsum.photos/id/1015/800/800",
+            "userName": "Abu_doc"
+        }
+    ]
+}
